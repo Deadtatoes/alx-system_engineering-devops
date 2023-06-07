@@ -1,1 +1,2 @@
-Shell BAsics Readme
+Shell basic tutorial
+
